@@ -24,7 +24,7 @@ Universidad: Universidad Autónoma de Manizales
 
 Programa: Ingeniería de Software con énfasis en Pruebas de Software
 
-#Integrantes
+# Integrantes
 
 Yeimy Lorena Marín Sosa
 
